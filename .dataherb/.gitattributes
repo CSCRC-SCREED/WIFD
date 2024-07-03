@@ -1,0 +1,14 @@
+# Treat specific file types as binary to avoid text conversion issues
+*.pdf binary            # Ensures PDF files are treated as binary
+*.doc binary            # Ensures DOC files are treated as binary
+*.gif binary            # Ensures GIF files are treated as binary
+*.ctg binary            # Ensures CTG files are treated as binary
+
+# Exclude certain files from archives
+*.md export-ignore      # Markdown files are not included in archives
+*.py export-ignore      # Python scripts are not included in archives
+
+# Proper handling of YAML files for dataset descriptions
+*.yml text eol=lf       # Ensure consistent LF line endings in YAML files
+*.yml diff=yaml         # Improve diff readability for YAML files
+*.yml export-ignore     # Exclude YAML files from archives
