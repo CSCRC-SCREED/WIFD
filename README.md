@@ -50,7 +50,7 @@ This comprehensive array of cameras allows researchers to study various aspects 
 ### Cloning the Repository
 To get started with the Warwick Image Forensics Dataset, you will first need to clone the repository. Use the following command to clone it to your local machine:
 ```sh
-git clone https://github.com/your-username/warwick-image-forensics-dataset.git
+git clone https://github.com/CSCRC-SCREED/WIFD.git
 ```
 
 ### Dataset Structure
