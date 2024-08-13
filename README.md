@@ -19,7 +19,7 @@
 ## About
 The Warwick Image Forensics Dataset is crafted to address the evolving challenges in the field of digital forensics, specifically for device fingerprinting involving sensor pattern noise (SPN). As digital photography advances, particularly in consumer-level mobile devices, the need for sophisticated analysis tools becomes crucial. This dataset responds to the shifting landscape caused by innovations in camera parameter flexibility and the rise of multi-frame photography techniques like high dynamic range (HDR) imaging.
 
-Featuring over 58,600 images from 14 different digital cameras, each carefully captured under varied exposure settings, this dataset is designed to facilitate in-depth research on device fingerprinting. It provides a rich resource for exploring how different exposure settings affect forensic analysis, making it an ideal tool for developing and testing new computational photography algorithms.
+This dataset features over 6,000 images from 14 different digital cameras, each carefully captured under varied exposure settings. It is designed to facilitate in-depth research on device fingerprinting. It provides a rich resource for exploring how different exposure settings affect forensic analysis, making it an ideal tool for developing and testing new computational photography algorithms.
 
 More detailed information can be found in our original paper [Warwick Image Forensics Dataset for Device Fingerprinting in Multimedia Forensics](https://ieeexplore.ieee.org/abstract/document/9102783).
 
@@ -54,7 +54,7 @@ git clone https://github.com/CSCRC-SCREED/WIFD.git
 ```
 
 ### Dataset Structure
-The dataset is divided into device folders, and within each device folder, there are subfolders for reference images, SDR images, and scenes (1-21). Each scene folder contains images categorized by ISO settings and further organized by extension type.
+The dataset is divided into device folders, and within each device folder, there are subfolders for reference images, SDR images, and a single scene. The scene folder contains images categorized by ISO settings and further organized by extension type.
 ```
 dataset/
 ├── device_1/
