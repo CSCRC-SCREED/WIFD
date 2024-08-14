@@ -1,0 +1,1 @@
+No SDR images were captured for this device during the dataset curation process.
