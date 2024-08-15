@@ -1,7 +1,5 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="./assets/logos/warwick-logo.png" alt="WIFD" width="200"></a>
-  <br>
   WARWICK IMAGE FORENSICS DATASET
   <br>
 </h1>
