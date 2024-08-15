@@ -131,9 +131,4 @@ The data and code housed in this repository are released under the [MIT License]
 
 <hr>
 <h4 align="center">Cyber Security Cooperative Research Centre</h4>
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
-    <img src="./assets/logos/warwick-logo.png" alt="Logo 1" style="width: 5%; height: 5%;">
-    <img src="./assets/logos/deakin-logo.png" alt="Logo 2" style="width: 10%; height: 10%;">
-    <img src="./assets/logos/cscrc-logo.png" alt="Logo 3" style="width: 3%; height: 5%;">
-</div>
 
